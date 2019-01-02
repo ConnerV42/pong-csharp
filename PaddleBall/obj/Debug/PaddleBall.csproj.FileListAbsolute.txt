@@ -1,0 +1,45 @@
+C:\Users\Conner Verret\Desktop\.NET Prog\VisualStudio\PaddleBall\PaddleBall\bin\Debug\PaddleBall.exe.config
+C:\Users\Conner Verret\Desktop\.NET Prog\VisualStudio\PaddleBall\PaddleBall\bin\Debug\PaddleBall.exe
+C:\Users\Conner Verret\Desktop\.NET Prog\VisualStudio\PaddleBall\PaddleBall\bin\Debug\PaddleBall.pdb
+C:\Users\Conner Verret\Desktop\.NET Prog\VisualStudio\PaddleBall\PaddleBall\obj\Debug\PaddleBall.csprojResolveAssemblyReference.cache
+C:\Users\Conner Verret\Desktop\.NET Prog\VisualStudio\PaddleBall\PaddleBall\obj\Debug\MainWindow.g.cs
+C:\Users\Conner Verret\Desktop\.NET Prog\VisualStudio\PaddleBall\PaddleBall\obj\Debug\App.g.cs
+C:\Users\Conner Verret\Desktop\.NET Prog\VisualStudio\PaddleBall\PaddleBall\obj\Debug\PaddleBall_MarkupCompile.cache
+C:\Users\Conner Verret\Desktop\.NET Prog\VisualStudio\PaddleBall\PaddleBall\obj\Debug\PaddleBall_MarkupCompile.lref
+C:\Users\Conner Verret\Desktop\.NET Prog\VisualStudio\PaddleBall\PaddleBall\obj\Debug\MainWindow.baml
+C:\Users\Conner Verret\Desktop\.NET Prog\VisualStudio\PaddleBall\PaddleBall\obj\Debug\PaddleBall.g.resources
+C:\Users\Conner Verret\Desktop\.NET Prog\VisualStudio\PaddleBall\PaddleBall\obj\Debug\PaddleBall.Properties.Resources.resources
+C:\Users\Conner Verret\Desktop\.NET Prog\VisualStudio\PaddleBall\PaddleBall\obj\Debug\PaddleBall.csproj.GenerateResource.cache
+C:\Users\Conner Verret\Desktop\.NET Prog\VisualStudio\PaddleBall\PaddleBall\obj\Debug\PaddleBall.csproj.CoreCompileInputs.cache
+C:\Users\Conner Verret\Desktop\.NET Prog\VisualStudio\PaddleBall\PaddleBall\obj\Debug\PaddleBall.exe
+C:\Users\Conner Verret\Desktop\.NET Prog\VisualStudio\PaddleBall\PaddleBall\obj\Debug\PaddleBall.pdb
+C:\Users\Conner Verret\Desktop\dotNETcSharp\VisualStudio\PaddleBall\PaddleBall\bin\Debug\PaddleBall.exe.config
+C:\Users\Conner Verret\Desktop\dotNETcSharp\VisualStudio\PaddleBall\PaddleBall\bin\Debug\PaddleBall.exe
+C:\Users\Conner Verret\Desktop\dotNETcSharp\VisualStudio\PaddleBall\PaddleBall\bin\Debug\PaddleBall.pdb
+C:\Users\Conner Verret\Desktop\dotNETcSharp\VisualStudio\PaddleBall\PaddleBall\obj\Debug\PaddleBall.csprojResolveAssemblyReference.cache
+C:\Users\Conner Verret\Desktop\dotNETcSharp\VisualStudio\PaddleBall\PaddleBall\obj\Debug\MainWindow.g.cs
+C:\Users\Conner Verret\Desktop\dotNETcSharp\VisualStudio\PaddleBall\PaddleBall\obj\Debug\App.g.cs
+C:\Users\Conner Verret\Desktop\dotNETcSharp\VisualStudio\PaddleBall\PaddleBall\obj\Debug\PaddleBall_MarkupCompile.cache
+C:\Users\Conner Verret\Desktop\dotNETcSharp\VisualStudio\PaddleBall\PaddleBall\obj\Debug\PaddleBall_MarkupCompile.lref
+C:\Users\Conner Verret\Desktop\dotNETcSharp\VisualStudio\PaddleBall\PaddleBall\obj\Debug\MainWindow.baml
+C:\Users\Conner Verret\Desktop\dotNETcSharp\VisualStudio\PaddleBall\PaddleBall\obj\Debug\PaddleBall.g.resources
+C:\Users\Conner Verret\Desktop\dotNETcSharp\VisualStudio\PaddleBall\PaddleBall\obj\Debug\PaddleBall.Properties.Resources.resources
+C:\Users\Conner Verret\Desktop\dotNETcSharp\VisualStudio\PaddleBall\PaddleBall\obj\Debug\PaddleBall.csproj.GenerateResource.cache
+C:\Users\Conner Verret\Desktop\dotNETcSharp\VisualStudio\PaddleBall\PaddleBall\obj\Debug\PaddleBall.csproj.CoreCompileInputs.cache
+C:\Users\Conner Verret\Desktop\dotNETcSharp\VisualStudio\PaddleBall\PaddleBall\obj\Debug\PaddleBall.exe
+C:\Users\Conner Verret\Desktop\dotNETcSharp\VisualStudio\PaddleBall\PaddleBall\obj\Debug\PaddleBall.pdb
+C:\Users\Conner Verret\Desktop\CSCD\dotNETcSharp\VisualStudio\PaddleBall\PaddleBall\bin\Debug\PaddleBall.exe.config
+C:\Users\Conner Verret\Desktop\CSCD\dotNETcSharp\VisualStudio\PaddleBall\PaddleBall\bin\Debug\PaddleBall.exe
+C:\Users\Conner Verret\Desktop\CSCD\dotNETcSharp\VisualStudio\PaddleBall\PaddleBall\bin\Debug\PaddleBall.pdb
+C:\Users\Conner Verret\Desktop\CSCD\dotNETcSharp\VisualStudio\PaddleBall\PaddleBall\obj\Debug\PaddleBall.csprojResolveAssemblyReference.cache
+C:\Users\Conner Verret\Desktop\CSCD\dotNETcSharp\VisualStudio\PaddleBall\PaddleBall\obj\Debug\MainWindow.g.cs
+C:\Users\Conner Verret\Desktop\CSCD\dotNETcSharp\VisualStudio\PaddleBall\PaddleBall\obj\Debug\App.g.cs
+C:\Users\Conner Verret\Desktop\CSCD\dotNETcSharp\VisualStudio\PaddleBall\PaddleBall\obj\Debug\PaddleBall_MarkupCompile.cache
+C:\Users\Conner Verret\Desktop\CSCD\dotNETcSharp\VisualStudio\PaddleBall\PaddleBall\obj\Debug\PaddleBall_MarkupCompile.lref
+C:\Users\Conner Verret\Desktop\CSCD\dotNETcSharp\VisualStudio\PaddleBall\PaddleBall\obj\Debug\MainWindow.baml
+C:\Users\Conner Verret\Desktop\CSCD\dotNETcSharp\VisualStudio\PaddleBall\PaddleBall\obj\Debug\PaddleBall.g.resources
+C:\Users\Conner Verret\Desktop\CSCD\dotNETcSharp\VisualStudio\PaddleBall\PaddleBall\obj\Debug\PaddleBall.Properties.Resources.resources
+C:\Users\Conner Verret\Desktop\CSCD\dotNETcSharp\VisualStudio\PaddleBall\PaddleBall\obj\Debug\PaddleBall.csproj.GenerateResource.cache
+C:\Users\Conner Verret\Desktop\CSCD\dotNETcSharp\VisualStudio\PaddleBall\PaddleBall\obj\Debug\PaddleBall.csproj.CoreCompileInputs.cache
+C:\Users\Conner Verret\Desktop\CSCD\dotNETcSharp\VisualStudio\PaddleBall\PaddleBall\obj\Debug\PaddleBall.exe
+C:\Users\Conner Verret\Desktop\CSCD\dotNETcSharp\VisualStudio\PaddleBall\PaddleBall\obj\Debug\PaddleBall.pdb
